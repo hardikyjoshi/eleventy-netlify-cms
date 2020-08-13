@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: Home
+---
+
 # Catch Doggos
 
 ## They will melt your heart!
