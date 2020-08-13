@@ -1,4 +1,4 @@
-# Doggos
+# Catch Doggos
 
 ## They will melt your heart!
 
