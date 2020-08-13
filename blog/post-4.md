@@ -1,5 +1,8 @@
 ---
 layout: blog.njk
+tags: post
+title: Alert Doggo
+date: 2020-08-04T21:00:00.000Z
 ---
 
 ## Dogs are the best!
