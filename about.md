@@ -2,6 +2,7 @@
 title: About
 layout: base.njk
 ---
+
 # About Doggos
 
 * They're cute
