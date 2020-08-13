@@ -1,0 +1,20 @@
+body {
+  line-height: 1;
+  background-color: #26a8de;
+  color: #000000;
+}
+
+a,
+a:visited,
+a:active {
+  color: #ffffff;
+}
+
+ul,
+ol {
+  display: inline-block;
+}
+
+img {
+  width: 350px;
+}
